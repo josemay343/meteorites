@@ -5,4 +5,9 @@ demo project that searches for meteorites landing sites
 
 This project required Python 3 and requests package.
 
-'python3 find_meteors.py'
+First install pipenv. Then:
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+```
